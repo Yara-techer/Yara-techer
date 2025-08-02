@@ -2,7 +2,7 @@
 
 About Me
 
-Hi, I'm [Your Name], a rising junior studying Computer Science at The City College of New York (CCNY). I'm passionate about machine learning, data science, and building technology that is both ethical and impactful. As Vice President of the Society of Women Engineers at CCNY, I’m also deeply committed to creating inclusive spaces in tech and supporting other women in STEM as we grow, lead, and learn together.
+Hi, I'm Yara Elmahy, a rising junior studying Computer Science at The City College of New York (CCNY). I'm passionate about machine learning, data science, and building technology that is both ethical and impactful. As Vice President of the Society of Women Engineers at CCNY, I’m also deeply committed to creating inclusive spaces in tech and supporting other women in STEM as we grow, lead, and learn together.
 
 Languages or Tools
 
